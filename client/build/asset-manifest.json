@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56732891.css",
+    "main.js": "/static/js/main.87242f28.js",
+    "static/media/land1.png": "/static/media/land1.c678b8284fbf31b73671.png",
+    "static/media/phone-app.png": "/static/media/phone-app.171434baa7adf8dd012e.png",
+    "static/media/Becho1.Com.png": "/static/media/Becho1.Com.39f81be193f230c69f29.png",
+    "static/media/Becho.png": "/static/media/Becho.717cfd0d23f12289f702.png",
+    "index.html": "/index.html",
+    "main.56732891.css.map": "/static/css/main.56732891.css.map",
+    "main.87242f28.js.map": "/static/js/main.87242f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56732891.css",
+    "static/js/main.87242f28.js"
+  ]
+}

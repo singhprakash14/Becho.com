@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.hover-location > p {
+  cursor: pointer;
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  }
+  
+  .acpanel :hover{
+      color: black;
+      background-color: whitesmoke;
+  }
