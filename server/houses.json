@@ -1,0 +1,524 @@
+[
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+      ],
+      "price": 38000,
+      "address": "Pitampura, Delhi, Delhi",
+      "postDate": "29 May",
+      "sellerName": "ZoomWheels",
+      "memeberSince": "Sep 2005",
+      "phone": "9876543210",
+      "state": "Delhi",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+      ],
+      "price": 57000,
+      "address": "Pitampura, Delhi, Delhi",
+      "postDate": "23 May",
+      "totalOwners": 1,
+      "sellerName": "ZoomWheels",
+      "memeberSince": "Jan 2017",
+      "phone": "9876543210",
+      "state": "Delhi",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+      ],
+      "price": 75000,
+      "address": "Mumbai, India",
+      "postDate": "1 June",
+      "sellerName": "ZoomWheels",
+      "memeberSince": "Sep 2005",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things.",
+      "featured": true
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+      ],
+      "price": 62000,
+      "address": "Mumbai, India",
+      "postDate": "21 May",
+      "sellerName": "ZoomWheels",
+      "memeberSince": "Feb 2019",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+      ],
+      "price": 65000,
+      "address": "Mumbai, India",
+      "postDate": "2 April",
+      "sellerName": "Pant Motors",
+      "memeberSince": "Aug 2017",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+      ],
+      "price": 85000,
+      "address": "Mumbai, India",
+      "postDate": "6 June",
+      "totalOwners": 3,
+      "sellerName": "Sahu Motors",
+      "memeberSince": "Sep 2015",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things.",
+      "featured": true
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/fr8trhtar5nc-IN/image;s=300x600;q=60"
+      ],
+      "price": 89000,
+      "address": "Mumbai, India",
+      "postDate": "3 June",
+      "sellerName": "Ghosh Motors",
+      "memeberSince": "Aug 2018",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/3i523blt2cze2-IN/image;s=300x600;q=60"
+      ],
+      "price": 45000,
+      "address": "Bangalore, Karnataka, India",
+      "postDate": "5 June",
+      "sellerName": "ZoomWheels",
+      "memeberSince": "Jul 2019",
+      "phone": "9876543210",
+      "state": "Karnataka",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+      ],
+      "price": 35000,
+      "address": "Bangalore, Karnataka, India",
+      "postDate": "yesterday",
+      "sellerName": "Verma Wheels",
+      "memeberSince": "Jan 2017",
+      "phone": "9876543210",
+      "state": "Karnataka",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things.",
+      "featured": true
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+      ],
+      "price": 25000,
+      "address": "Bangalore, Karnataka, India",
+      "postDate": "2 May",
+      "sellerName": "Rajesh Motors",
+      "memeberSince": "Jan 2016",
+      "phone": "9876543210",
+      "state": "Karnataka",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+      ],
+      "price": 75000,
+      "address": "Bangalore, Karnataka, India",
+      "postDate": "26 April",
+      "sellerName": "Rajat Sahu",
+      "memeberSince": "Sep 2012",
+      "phone": "9876543210",
+      "state": "Karnataka",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+      ],
+      "price": 30000,
+      "address": "Bangalore, Karnataka, India",
+      "postDate": "20 May",
+      "totalOwners": 3,
+      "sellerName": "Sharma Motors",
+      "memeberSince": "Feb 2015",
+      "phone": "9876543210",
+      "state": "Karnataka",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+      ],
+      "price": 35000,
+      "address": "Pune, Maharashtra",
+      "postDate": "2 May",
+      "sellerName": "Ghai Motors",
+      "memeberSince": "Oct 2012",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+      ],
+      "price": 31000,
+      "address": "Pune, Maharashtra",
+      "postDate": "yesterday",
+      "sellerName": "Kapil Pant",
+      "memeberSince": "Sep 2014",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/6t5w2peg1x8u1-IN/image;s=300x600;q=60"
+      ],
+      "price": 55000,
+      "address": "Pune, Maharashtra",
+      "postDate": "2 April",
+      "sellerName": "Kiran",
+      "memeberSince": "Sep 2015",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/qisc05vvjhyq-IN/image;s=300x600;q=60"
+      ],
+      "price": 75000,
+      "address": "Pune, Maharashtra",
+      "postDate": "2 May",
+      "sellerName": "Ghai Motors",
+      "memeberSince": "Sep 2016",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+      ],
+      "price": 45000,
+      "address": "Pune, Maharashtra",
+      "postDate": "4 June",
+      "sellerName": "Albert",
+      "memeberSince": "Apr 2019",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/3i523blt2cze2-IN/image;s=300x600;q=60"
+      ],
+      "price": 49000,
+      "address": "Kerala, India",
+      "postDate": "5 June",
+      "sellerName": "ZoomWheels",
+      "memeberSince": "Jul 2019",
+      "phone": "9876543210",
+      "state": "Kerala",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things.",
+      "featured": true
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+      ],
+      "price": 35000,
+      "address": "Kerala, India",
+      "postDate": "yesterday",
+      "sellerName": "Verma Wheels",
+      "memeberSince": "Jan 2017",
+      "phone": "9876543210",
+      "state": "Kerala",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+      ],
+      "price": 25000,
+      "address": "Kerala, India",
+      "postDate": "2 May",
+      "sellerName": "Rajesh Motors",
+      "memeberSince": "Jan 2016",
+      "phone": "9876543210",
+      "state": "Kerala",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+      ],
+      "price": 75000,
+      "address": "Kerala, India",
+      "postDate": "26 April",
+      "sellerName": "Rajat Sahu",
+      "memeberSince": "Sep 2012",
+      "phone": "9876543210",
+      "state": "Kerala",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+      ],
+      "price": 35000,
+      "address": "Kerala, India",
+      "postDate": "20 May",
+      "totalOwners": 3,
+      "sellerName": "Sharma Motors",
+      "memeberSince": "Feb 2015",
+      "phone": "9876543210",
+      "state": "Kerala",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+      ],
+      "price": 42000,
+      "address": "Pitampura, Delhi, Delhi",
+      "postDate": "2 May",
+      "sellerName": "Ghai Motors",
+      "memeberSince": "Oct 2012",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+      ],
+      "price": 62000,
+      "address": "Mumbai, India",
+      "postDate": "yesterday",
+      "sellerName": "Kapil Pant",
+      "memeberSince": "Sep 2014",
+      "phone": "9876543210",
+      "state": "Delhi",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things.",
+      "featured": true
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/6t5w2peg1x8u1-IN/image;s=300x600;q=60"
+      ],
+      "price": 55000,
+      "address": "Mumbai, India",
+      "postDate": "2 April",
+      "sellerName": "Kiran",
+      "memeberSince": "Sep 2015",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/qisc05vvjhyq-IN/image;s=300x600;q=60"
+      ],
+      "price": 75000,
+      "address": "Pune, Maharashtra",
+      "postDate": "2 May",
+      "sellerName": "Ghai Motors",
+      "memeberSince": "Sep 2016",
+      "phone": "9876543210",
+      "state": "Maharashtra",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    },
+    {
+      "image": [
+        "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+      ],
+      "price": 45000,
+      "address": "Bangalore, Karnataka, India",
+      "postDate": "4 June",
+      "sellerName": "Albert",
+      "memeberSince": "Apr 2019",
+      "phone": "9876543210",
+      "state": "Karnataka",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": "semi-furnished",
+      "category": "rentHouse",
+      "floor": 2,
+      "carParking": 1,
+      "description": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+    }
+  ]

@@ -1,0 +1,26 @@
+GET
+    - /laptops
+    - /laptops/:_id
+
+    - /mobiles
+    - /mobiles/:_id
+
+    - /bikes
+    - /bikes/:_id
+
+    - /cars
+    - /cars/:_id
+
+    - /houses
+    - /houses/:_id
+
+
+POST
+    .Register
+        - /auth/register/mobile
+        - /auth/register/email
+
+    .Login
+        - /auth/login/mobile
+        - /auth/login/email
+
