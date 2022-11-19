@@ -1,3 +1,3 @@
 # Becho.com
 
-https://wondrous-gelato-3636ec.netlify.app/
+https://client-bice-chi.vercel.app/?limit=2
