@@ -9,6 +9,12 @@
 <h2 align="center">🖥️ Tech Stack</h2>
 
 
+## Team Members.
+1.	Mr. Zuhed Shaikh [Team Leader].
+2.	Mr. Prakash Singh.
+3.	Mr. Rohit prajapat.
+4.	Mr. Neeraj Singh.
+
 <h4 align="center">Frontend:</h4>
 
 <p align="center">
@@ -53,7 +59,7 @@
 </p>
 
 
-Becho.com is MERN Stack e-commerce web application that allows  for sale from cars, furniture, electronics to jobs and services listings. Buy or sell something today  visit the producta listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
+Becho.com is MERN Stack e-commerce web application that allows  for sale from cars, furniture, electronics to jobs and services listings. Buy or sell something today  visit the products listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
 
 
 
@@ -93,20 +99,6 @@ Becho.com is MERN Stack e-commerce web application that allows  for sale from ca
  
  
 </table>
-
-<br />
-
-## Test Coupon Codes
-```
-BOAT10 (for 10% Off)
-
-
-```
-
-
-<br />
-
-<br />
 
 
 ## Getting Started
