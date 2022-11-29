@@ -194,16 +194,6 @@ npm start
 <br />
 
 
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![GitHub](https://img.shields.io/badge/SAURABH%20UBALE-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/singhprakash14/)
-
-
-
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
